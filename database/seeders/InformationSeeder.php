@@ -18,8 +18,8 @@ class InformationSeeder extends Seeder
             'current_day' => date("l"),
             'utc_time' => date("Y-m-d\TH:i:sp"),
             'track' => 'backend',
-            'github_file_url' => 'https://github.com/saheedibrahim/HNG10-1-endpoint/blob/master/app/Http/Controllers/InformationController.php',
-            'github_repo_url' => 'https://github.com/saheedibrahim/HNG10-1-endpoint',
+            'github_file_url' => 'https://github.com/saheedibrahim/hng10_endpoint/blob/master/app/Http/Controllers/InformationController.php',
+            'github_repo_url' => 'https://github.com/saheedibrahim/hng10_endpoint',
             'status_code' => 200
         ]);
     }
